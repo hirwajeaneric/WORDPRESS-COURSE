@@ -1,0 +1,6 @@
+Create a script to open and shutdown xampp.
+
+Create a Home page and use samples pages as:
+1. http://project2.gwizatech.site/
+2. http://www.services.gwizatech.site/
+3. http://www.e-genagaciro.gwizatech.site/
